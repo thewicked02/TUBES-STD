@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1672154032 source:d:\gerr\random\project\menu.cpp
+	"menu.h"
+
+1672153651 d:\gerr\random\project\menu.h
+	<iostream>
+
+1672162955 source:d:\gerr\random\project\main.cpp
+	"menu.h"
+	"stack.h"
+	"queue.h"
+
+1672163011 source:d:\gerr\random\project\queue.cpp
+	"queue.h"
+
+1672161160 d:\gerr\random\project\queue.h
+	<iostream>
+
+1672157972 d:\gerr\random\project\stack.h
+	<iostream>
+
+1672162555 source:d:\gerr\random\project\stack.cpp
+	"stack.h"
+
+1672235139 source:c:\users\user\documents\codeblock\tubes_1302204026_1302204075\project\main.cpp
+	"menu.h"
+	"stack.h"
+	"queue.h"
+
+1672235573 c:\users\user\documents\codeblock\tubes_1302204026_1302204075\project\menu.h
+	<iostream>
+
+1672157972 c:\users\user\documents\codeblock\tubes_1302204026_1302204075\project\stack.h
+	<iostream>
+
+1672161160 c:\users\user\documents\codeblock\tubes_1302204026_1302204075\project\queue.h
+	<iostream>
+
+1672235618 source:c:\users\user\documents\codeblock\tubes_1302204026_1302204075\project\menu.cpp
+	"menu.h"
+
+1672234840 source:c:\users\user\documents\codeblock\tubes_1302204026_1302204075\project\queue.cpp
+	"queue.h"
+
+1672235041 source:c:\users\user\documents\codeblock\tubes_1302204026_1302204075\project\stack.cpp
+	"stack.h"
+
