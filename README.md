@@ -19,7 +19,7 @@ ANGGOTA
 
         【 Power Point = 70 % 】
 
-           【 Code = 90 % 】
+           【 Code = 100 % 】
            
          【 Testing = 100 % 】
 
