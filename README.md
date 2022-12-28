@@ -1,5 +1,5 @@
 # TUGAS BESAR STRUKTUR DATA
-========== KELOMPOK 18 ==========
+========== KELOMPOK 18 ========== /n
 ANGGOTA 
 [ Adhasurya Dwika - 1302204026 ]
 [ Rodo Idola Nathanael Marbun - 1302204075 ]
