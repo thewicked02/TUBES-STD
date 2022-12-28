@@ -5,6 +5,7 @@
 ANGGOTA 
 
 [ Adhasurya Dwika - 1302204026 ]
+
 [ Rodo Idola Nathanael Marbun - 1302204075 ]
 
 =================================
