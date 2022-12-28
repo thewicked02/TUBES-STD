@@ -1,8 +1,12 @@
 # TUGAS BESAR STRUKTUR DATA
-========== KELOMPOK 18 ========== /n
+
+========== KELOMPOK 18 ==========
+
 ANGGOTA 
+
 [ Adhasurya Dwika - 1302204026 ]
 [ Rodo Idola Nathanael Marbun - 1302204075 ]
+
 =================================
 
 ## Jenis dan Topik yang di pilih
