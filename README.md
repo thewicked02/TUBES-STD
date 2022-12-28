@@ -4,34 +4,34 @@
 
 ANGGOTA 
 
-[ Adhasurya Dwika - 1302204026 ]
+【  Adhasurya Dwika - 1302204026 】
 
-[ Rodo Idola Nathanael Marbun - 1302204075 ]
+【 Rodo Idola Nathanael Marbun - 1302204075 】
 
 =================================
 
 ## Jenis dan Topik yang di pilih
 
-        [ STACK DAN QUEUE ]
-         [ PLAYLIST LAGU ]
+        【 STACK DAN QUEUE 】
+         【 PLAYLIST LAGU 】
 
 ## Progress Tubes
 
-        [ Power Point = 70 % ]
+        【 Power Point = 70 % 】
 
-           [ Code = 90 % ]
+           【 Code = 90 % 】
            
-         [ Testing = 100 % ]
+         【 Testing = 100 % 】
 
 
 ## DOWNLOAD
 
-  [ UNTUK DOWNLOAD SILAHKAN CLICK RELEASE ATAU LINK DIBAWAH ]    
+  【 UNTUK DOWNLOAD SILAHKAN CLICK RELEASE ATAU LINK DIBAWAH 】    
          
 ==================================================    
 
- [ SourceCode : https://github.com/thewicked02/TUBES-STD/releases/tag/SOURCE-CODE-TUBES  ]
+ 【 SourceCode : https://github.com/thewicked02/TUBES-STD/releases/tag/SOURCE-CODE-TUBES  】
  
- [ PowerPoint : https://github.com/thewicked02/TUBES-STD/releases/tag/SLIDE-PPT ]
+ 【 PowerPoint : https://github.com/thewicked02/TUBES-STD/releases/tag/SLIDE-PPT 】
  
 ==================================================
