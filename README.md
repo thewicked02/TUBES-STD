@@ -26,7 +26,7 @@ ANGGOTA
 
 ## DOWNLOAD
 
-  【 UNTUK DOWNLOAD SILAHKAN CLICK RELEASE ATAU LINK DIBAWAH 】    
+  【 UNTUK DOWNLOAD SILAHKAN CLICK RELEASES ATAU LINK DIBAWAH 】    
          
 ==================================================    
 
