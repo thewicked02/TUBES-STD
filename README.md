@@ -25,10 +25,12 @@ ANGGOTA
 
 ## DOWNLOAD
 
-  [ UNTUK DOWNLOAD SILAHKAN CLICK RELEASE ]
-         [ ATAU LINK DIBAWAH ]    
+  [ UNTUK DOWNLOAD SILAHKAN CLICK RELEASE ATAU LINK DIBAWAH ]    
          
-==================================================         
-SourceCode : https://github.com/thewicked02/TUBES-STD/releases/tag/SOURCE-CODE-TUBES 
-PowerPoint : https://github.com/thewicked02/TUBES-STD/releases/tag/SLIDE-PPT
+==================================================    
+
+ [ SourceCode : https://github.com/thewicked02/TUBES-STD/releases/tag/SOURCE-CODE-TUBES  ]
+ 
+ [ PowerPoint : https://github.com/thewicked02/TUBES-STD/releases/tag/SLIDE-PPT ]
+ 
 ==================================================
