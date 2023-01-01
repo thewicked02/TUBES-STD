@@ -17,7 +17,7 @@ ANGGOTA
 
 ## Progress Tubes
 
-        【 Power Point = 70 % 】
+        【 Power Point = 100 % 】
 
            【 Code = 100 % 】
            
