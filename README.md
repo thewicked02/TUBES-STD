@@ -30,7 +30,7 @@ ANGGOTA
          
 ==================================================    
 
- 【 SourceCode : https://github.com/thewicked02/TUBES-STD/releases/tag/SOURCE-CODE-TUBES | FILE NAME : TUBESSTD_DOWNLOAD.zip  】
+ 【 SourceCode : https://github.com/thewicked02/TUBES-STD/releases/tag/SOURCE-CODE-TUBES | FILE NAME : TUBESSTD_DOWNLOAD.rar  】
  
  【 PowerPoint : https://github.com/thewicked02/TUBES-STD/releases/tag/SLIDE-PPT | FILE NAME : TUBES_STD_SLIDEPPT_1302204026_1302204075.pdf 】
  
